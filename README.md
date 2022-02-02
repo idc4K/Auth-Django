@@ -10,4 +10,4 @@ Profil utilisateur - Une fois connectés, les utilisateurs peuvent créer et met
 Mettre à jour le profil – Les utilisateurs peuvent mettre à jour leurs informations telles que le nom d’utilisateur, l’adresse e-mail, le mot de passe, l’avatar et la biographie
 Se souvenir de moi - Option de cookie, les utilisateurs n’ont pas à fournir d’informations d’identification chaque fois qu’ils visitent le site
 Mot de passe oublié – Les utilisateurs peuvent facilement récupérer leur mot de passe s’ils l’oublient
-Panneau d’administration - l’administrateur peut CRUD utilisateurs
+Panneau d’administration - l’administrateur peut CRUD utilisateurs.
